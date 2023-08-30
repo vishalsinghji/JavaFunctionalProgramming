@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Üùàúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Üùàúÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

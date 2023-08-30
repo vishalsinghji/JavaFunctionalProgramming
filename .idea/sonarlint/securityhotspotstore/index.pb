@@ -1,0 +1,45 @@
+
+
+Osrc/FunctionalProgrammingInDepth/HigherOrderFunctions/HigherOrderFunctions.java,1/d/1dd92797bcfae78b453f83f3ceaac1d50b6aec75
+g
+7src/FunctionalProgrammingInDepth/Chaining/Consumer.java,b/0/b0f7afe348ca65f0e3d6224f85fbc913d872b3ca
+r
+Bsrc/FunctionalProgrammingInDepth/ReferentialTransparency/Demo.java,9/0/9008cf1179df0ed5b47d43a3581cc872c0a778dc
+…
+Usrc/FunctionalProgrammingInDepth/ReferentialTransparency/ReferentialTransparency.java,5/0/509ba496f8f6e7a285475a1c404a1ecb2d46aca7
+g
+7src/FunctionalProgrammingInDepth/Chaining/Chaining.java,0/f/0f1a9dc60c3a5ad4a738321467a1aac273520d5a
+D
+src/MyPredicate.java,3/c/3cce386e2aa870406472116c7558779ee9b0e668
+C
+src/MyConsumer.java,6/e/6eb13f9a1c1251472af6877b6f708af84058ed1c
+N
+src/Declrativeprogramming.java,f/2/f2b6998288add5b182653a9f4cb5aef74025b09e
+K
+src/Streams/Intro/Book.java,7/0/70b03418d57378ed0a0c6bfae7f203c97cbf2d86
+Y
+)src/Streams/Intro/StreamIntroduction.java,a/9/a95151a9b18f8ea3ea8b3b400f296c667e23aae2
+P
+ src/Streams/Intro/SingleUse.java,e/a/ea450c3926010b0c7fb92bd2ff08355306311dca
+Y
+)src/Streams/Intro/ObservingTheStream.java,6/e/6e5f6bdb1d9ba64ac8dcab6f4de2f2dd146a8c96
+Z
+*src/Streams/Functions/FilterOperation.java,e/4/e4c80025721002c6e7cc2ff0c9360db7fc128023
+W
+'src/Streams/Functions/MapOperation.java,1/3/135e4d90b68895f4317b44eca31cf2408568764d
+O
+src/Streams/BoundedStreams.java,a/e/aee29d704332e8a3bcba6eb92b08e1f928229329
+\
+,src/Streams/NumericStreams/Calculations.java,4/7/47c3e5c181db526f5c9370d2f04deee875f8c715
+Z
+*src/Streams/Functions/ReduceOperation.java,0/c/0cfe29f904685155ea2ca1abbe9f0560d33f095a
+P
+ src/Streams/InfiniteStreams.java,a/1/a1b0f05d2897d9e6b3fab54476ba22c0f68fabef
+I
+src/Streams/Laziness.java,7/2/722166822699d174470812a52e159142a3459b98
+=
+src/test.java,2/e/2e9f5287534e2ab86bcabfff7a3c5f9b053752ae
+Q
+!src/Streams/FlatMapOperation.java,6/8/68dc3a5bc612921bf490afe7ebc00387bef8457f
+^
+.src/Streams/NumericStreams/NumericStreams.java,d/d/dd1b17b25e27b35821cf5e25aae99e4c85ab47a1

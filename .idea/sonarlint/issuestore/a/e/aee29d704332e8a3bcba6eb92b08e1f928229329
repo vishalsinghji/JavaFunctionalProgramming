@@ -1,0 +1,30 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+V
+java:S1854$";Remove this useless assignment to local variable "stream2".(ˆËµ¼şÿÿÿÿ
+U
+java:S1854!":Remove this useless assignment to local variable "stream".(õÂ§ùÿÿÿÿ
+W
+java:S1854"ARemove this useless assignment to local variable "streamStrings".(Ääóµ
+S
+java:S1854"8Remove this useless assignment to local variable "keys".(ûÈëÿÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "values".(êäÂŒüÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "entries".(ù±¸¼ıÿÿÿÿ
+]
+java:S1854"BRemove this useless assignment to local variable "streamIntegers".(§ØıÒşÿÿÿÿ
+N
+java:S1481"3Remove this unused "streamIntegers" local variable.(§ØıÒşÿÿÿÿ
+G
+java:S1481",Remove this unused "entries" local variable.(ù±¸¼ıÿÿÿÿ
+F
+java:S1481"+Remove this unused "values" local variable.(êäÂŒüÿÿÿÿ
+D
+java:S1481")Remove this unused "keys" local variable.(ûÈëÿÿÿÿÿ
+H
+java:S1481"2Remove this unused "streamStrings" local variable.(Ääóµ
+F
+java:S1481!"+Remove this unused "stream" local variable.(õÂ§ùÿÿÿÿ
+G
+java:S1481$",Remove this unused "stream2" local variable.(ˆËµ¼şÿÿÿÿ

@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+H
+java:S3958"2Refactor the code so this stream pipeline is used.(ÇÎ»±
+B
+java:S1481"'Remove this unused "of" local variable.(¬Ê¡“úÿÿÿÿ
+B
+java:S1481",Remove this unused "flatMap" local variable.(ÇÎ»±
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Æã•ûÿÿÿÿ
+M
+java:S1135#"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

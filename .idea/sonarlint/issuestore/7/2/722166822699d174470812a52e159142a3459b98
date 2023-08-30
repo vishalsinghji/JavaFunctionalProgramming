@@ -1,0 +1,13 @@
+
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Horror" 3 times.(ÀêûÛ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+H
+java:S1611"2Remove the parentheses around the "book" parameter(õˆœ¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õéËó
+O
+java:S1611"2Remove the parentheses around the "book" parameter(¿—½È8À¿öı¢1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úÚÅó
+Q	java:S125"<This block of commented-out lines of code should be removed.(‘Üã«
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(å¹Ó¡ÿÿÿÿÿ
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ˆÜœö8¶äõş¢1
