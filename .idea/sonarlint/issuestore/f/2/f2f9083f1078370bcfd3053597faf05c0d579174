@@ -1,0 +1,24 @@
+
+`
+java:S1192"JDefine a constant instead of duplicating this literal "Hollywood" 5 times.(εφξ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "Bollywood" 3 times.(®ΒΨφ
+i
+java:S1192"SDefine a constant instead of duplicating this literal "------------------" 5 times.(Θ©ƒ«
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(―ρΏο
+s
+java:S36554"XCall "moviesString.isPresent()" or "!moviesString.isEmpty()" before accessing the value.(Θε¶ύÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(φ •³ψÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Θ©ƒ«
+S	java:S106"9Replace this use of System.out or System.err by a logger.(φ •³ψÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Θ©ƒ«
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ή¦…‡ϊÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Θ©ƒ«
+V
+java:S1612*";Replace this lambda with method reference 'Movie::getName'.(υς«χώÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ή¦…‡ϊÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Θ©ƒ«
+Q
+java:S16121";Replace this lambda with method reference 'Movie::getName'.(ΰÿΒ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Θε¶ύÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Θ©ƒ«

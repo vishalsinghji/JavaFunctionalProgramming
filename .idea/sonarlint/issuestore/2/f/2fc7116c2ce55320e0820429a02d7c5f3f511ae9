@@ -1,0 +1,29 @@
+
+w
+java:S1192"\Define a constant instead of duplicating this literal "---------------------------" 5 times.(ð³æÂûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ¨Ž‚þÿÿÿÿ
+Y
+java:S1854&"DRemove this useless assignment to local variable "filteredContacts".(Òú°}
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ž´Ýüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ð³æÂûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™ÃºÎüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ð³æÂûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+U
+java:S1612(":Replace this lambda with method reference 'Entry::getKey'.(§–Œµúÿÿÿÿ
+W
+java:S1612("<Replace this lambda with method reference 'Entry::getValue'.(§–Œµúÿÿÿÿ
+J
+java:S1481&"5Remove this unused "filteredContacts" local variable.(Òú°}
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ð³æÂûÿÿÿÿ
+R
+java:S1612-"<Replace this lambda with method reference 'Entry::getValue'.(¯ÆÖ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(àÅøÌûÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ð³æÂûÿÿÿÿ
+U
+java:S16129":Replace this lambda with method reference 'Entry::getKey'.(˜ô˜ÿúÿÿÿÿ
+W
+java:S16129"<Replace this lambda with method reference 'Entry::getValue'.(˜ô˜ÿúÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(óËé–ûÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ð³æÂûÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(žè¿ýÿÿÿÿ

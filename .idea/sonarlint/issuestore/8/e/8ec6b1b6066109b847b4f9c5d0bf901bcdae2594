@@ -1,0 +1,17 @@
+
+k
+java:S1192"UDefine a constant instead of duplicating this literal "--------------------" 5 times.(Œ€ÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üˆÃ¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç°³¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÉË²ûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+R
+java:S1612&"<Replace this lambda with method reference 'Double::valueOf'.(¸ß–á
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÂÏŒÈ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
